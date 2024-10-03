@@ -1,0 +1,7 @@
+**/.venv
+**/kivy_venv
+**/Include
+**/Lib
+**/Scripts
+**/share
+**/__pycache__
